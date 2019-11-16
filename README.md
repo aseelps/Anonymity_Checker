@@ -5,7 +5,7 @@ pip install reuest
 
 installation
 
-gitclone https://github.com/aseelps/Anonymity_Checker
+git clone https://github.com/aseelps/Anonymity_Checker
 
 cd Anonymity_Checker
 
