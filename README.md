@@ -1,7 +1,7 @@
 # Anonymity_Checker
 A tool to find Ip,location,etc...
 Pip Requirement
-pip install reuest
+pip install request
 
 installation
 
