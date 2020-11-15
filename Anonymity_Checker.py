@@ -12,10 +12,10 @@ region = data['region']
 location = data['loc'].split(',')
 latitude = location[0]
 longitude = location[1]
-print("\n")
+
 print("\n Anonymity Checker")
 print("\n Tool Designed by aseelps")
-print("\n")
+
 print("IP : ", ip)
 print("Country : ", country)
 print("Region : ", region)
