@@ -13,7 +13,7 @@ location = data['loc'].split(',')
 latitude = location[0]
 longitude = location[1]
 print("\n")
-print("Anonymity Checker ")
+print("\nAnonymity Checker")
 print("\t Tool Designed by aseelps")
 print("\n")
 print("IP : ", ip)
